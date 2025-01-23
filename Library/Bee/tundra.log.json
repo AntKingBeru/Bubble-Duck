@@ -1,4 +1,5 @@
 {"msg":"init","dagFile":"Library/Bee/1900b0aE.dag","targets":["ScriptAssemblies"]}
+<<<<<<< Updated upstream
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"ScriptAssemblies","enqueuedNodeIndex":6}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C85A24C8886E7807.mvfrm","enqueuedNodeIndex":5,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_B813217355FD02D5.mvfrm","enqueuedNodeIndex":7,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
@@ -443,3 +444,8 @@
 {"msg":"nodeOutputsMissing","annotation":"ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput","index":315,"files":["Library\\ilpp-configuration.nevergeneratedoutput"],"directories":[]}
 {"msg":"runNodeAction","annotation":"ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput","displayName":"ILPP-Configuration ilpp-configuration","index":315}
 {"msg":"noderesult","processed_node_count":349,"number_of_nodes_ever_queued":441,"annotation":"ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput","index":315,"exitcode":0,"outputfile":"Library\\ilpp-configuration.nevergeneratedoutput"}
+=======
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ScriptAssemblies","enqueuedNodeIndex":1}
+{"msg":"newNode","annotation":"ScriptAssemblies","index":1}
+{"msg":"runNodeAction","annotation":"ScriptAssemblies","index":1}
+>>>>>>> Stashed changes
